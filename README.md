@@ -6,7 +6,7 @@
 I'm a recent grad of Concordia University's Full-Stack Web Development Bootcamp and a tech and gadget enthusiast with a passion for all things creative that loves to channel my ideas and concepts through code. 
 
 #### Current Technologies
-React / Node.js / CSS / Javascript / MongoDB / Redux / Gatsby / Vue.JS / GraphQL
+React / Node.js / CSS / Javascript / MongoDB / Redux / Gatsby / Contentful / Vue.JS / GraphQL
 
 #### Personal website:
 [www.blockcontrol.ca](https://www.blockcontrol.ca)
