@@ -1,5 +1,5 @@
 
-#### Personal website - STATUS: SYSTEM AWAITING REBOOT. Check for updates:
+#### Personal website - STATUS: SYSTEM BACK ONLINE
 [www.blockcontrol.ca](https://www.blockcontrol.ca)
 
 MAKE WEBSITES FUN AGAIN!
